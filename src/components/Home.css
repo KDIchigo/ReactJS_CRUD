@@ -1,0 +1,23 @@
+.navBar_heading {
+    width: 100%;
+    height: 46px;
+    background-color: rgba(14, 16, 28, 0.8);
+    padding-top: 10px;
+}
+.node_heading {
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.node_center {
+    text-align: center;
+    align-items: center;
+}
+
+.search {
+    padding: 10px;
+    margin: 20px;
+}
